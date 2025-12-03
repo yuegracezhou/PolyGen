@@ -1,0 +1,54 @@
+# ========================
+# Secrets & environment
+# ========================
+.env
+.env.*
+*.key
+*.pem
+
+# ========================
+# Python virtual env
+# ========================
+venv/
+.venv/
+env/
+ENV/
+
+# ========================
+# Python cache / build
+# ========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# ========================
+# Jupyter / notebook
+# ========================
+.ipynb_checkpoints/
+
+# ========================
+# OS / editor junk
+# ========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ========================
+# Logs / outputs
+# ========================
+*.log
+output/
+outputs/
+results/
+data/
+
+# ========================
+# Model / large artifacts
+# ========================
+*.pt
+*.pth
+*.ckpt
+*.h5
+*.onnx
