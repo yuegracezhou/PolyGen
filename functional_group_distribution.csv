@@ -1,0 +1,6 @@
+,minGPT Low,minGPT High,GPT-4o Low,GPT-4o High,LLaMA Low,LLaMA High,LLaMA Low tuned,LLaMA High tuned
+Amides,6.2,3.1,0.0,11.9,0.0,3.2,11.1,11.1
+Ethers,22.5,26.0,0.0,46.3,19.4,30.1,17.2,16.2
+Ketones,0.0,0.0,27.4,3.0,19.4,4.3,0.0,0.0
+Other Esters,70.0,70.8,0.0,20.9,0.0,55.9,71.7,72.7
+Others,1.2,0.0,72.6,17.9,61.2,6.5,0.0,0.0
